@@ -1,7 +1,10 @@
 img {
     float: left;
   }
-  .column {
-    width: 350px;
-    float: left;
+  
+  .test-box {
+    border: 2px solid brown;
+    padding: 6px;
+    margin: 20px;
+    background-color:blanchedalmond;
   }
